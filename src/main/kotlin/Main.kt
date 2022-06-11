@@ -1,6 +1,14 @@
 fun main(){
 
    invoke("smit")
+    sss(s)
+}
+
+
+val s:()->Unit = {}
+
+fun sss(value:suspend ()->Unit){
+
 }
 
 val invoke:context(String) ()->Unit = {}
