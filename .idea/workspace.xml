@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f350fbb-e7bd-4407-a04b-67ebc154fa9e" name="Changes" comment="Tried Some Experiments With New Features">
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +82,8 @@
       <workItem from="1654850906878" duration="161000" />
       <workItem from="1654858365296" duration="541000" />
       <workItem from="1654953262388" duration="647000" />
+      <workItem from="1655105465872" duration="54000" />
+      <workItem from="1655820100374" duration="1168000" />
     </task>
     <task id="LOCAL-00001" summary="Tried Some Experiments With New Features">
       <created>1654152187642</created>

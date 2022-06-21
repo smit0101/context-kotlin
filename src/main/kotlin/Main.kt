@@ -2,6 +2,10 @@ fun main(){
 
    invoke("smit")
     sss(s)
+    with("raj"){
+        invoke(this)
+    }
+    say()
 }
 
 
@@ -35,15 +39,21 @@ class B:Test()
 
 
 context(Test,B)
-open class Sike
+open class Sike{
+    init{
+        println("one")
+    }
+}
 
 fun say() {
  with(B()) {
      class Vike : Sike(){
                 init {
+                    println("two")
                     8.vapro {  }
                 }
      }
+     Vike()
  }
 }
 
