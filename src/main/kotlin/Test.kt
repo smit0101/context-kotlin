@@ -8,6 +8,12 @@ fun main(){
             s.hey()
         }
     }
+    G.Inner().D()
+}
+class G{
+     class Inner{
+    inner    class D
+    }
 }
 
 open class Shape
